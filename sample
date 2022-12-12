@@ -2,4 +2,5 @@
 void main()
 {
 printf("github");
+printf("github.com");
 }
